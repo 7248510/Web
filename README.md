@@ -1,2 +1,2 @@
-# Backend
-Everything related to backend web development.
+# Web
+Everything related to web development.
